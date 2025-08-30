@@ -30,7 +30,7 @@ I’m passionate about coding, learning new tech, and building cool projects.
 ---
 
 ## 🚀 Featured Project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Richi1000&repo=NamaRepo&theme=radical)](https://github.com/Richi1000/NamaRepo)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Richi1000&repo=NamaRepo&theme=radical)](https://github.com/Richi1000/Perusahaan)  
 
 ---
 
