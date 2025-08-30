@@ -1,14 +1,17 @@
 <!-- Banner Animasi -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=F70A8D&center=true&vCenter=true&width=800&lines=Hi+There+👋,+I'm+Richie!;Full+Stack+Developer+🚀;Passionate+Learner+📚;Code+%26+Build+Cool+Projects+🔥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=F70A8D&center=true&vCenter=true&width=800&lines=Hi+There+👋,+I'm+Richie!;Informatics+Student+💻;Aspiring+Full+Stack+Dev+🚀;Learning+Machine+Learning+🤖;IT+Support+Enthusiast+🔧)](https://git.io/typing-svg)
 
 ---
 
 ## 🚀 About Me  
+- 🎓 Informatics Student @ **Universitas Esa Unggul** (Semester 4)  
 - 🔭 Currently working on: **Payroll System (Laravel + MySQL)**  
 - 🌱 Learning: **Machine Learning & Data Science**  
+- 🔧 Also experienced in: **IT Support** (hardware & software troubleshooting)  
 - 🌙 Fun fact: **I code better at night**  
-- 💼 Connect with me:  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com)  
+
+💼 Connect with me:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com)  
 
 ---
 
@@ -23,6 +26,7 @@
 ## 🛠️ Tech Stack  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
