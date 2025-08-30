@@ -25,7 +25,7 @@ I’m passionate about coding, learning new tech, and building cool projects.
 ---
 
 ## 🐍 Contribution Snake
-![Snake animation](https://github.com/Richi1000/Richi1000/blob/output/github-contribution-grid-snake.svg)  
+![Snake animation](https://github.com/Richi1000/Richi1000/blob/output/snake.svg) 
 
 ---
 
