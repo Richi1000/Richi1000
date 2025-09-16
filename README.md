@@ -34,15 +34,6 @@
 
 ---
 
-## 🌟 Featured Project  
-<p align="center">
-  <a href="https://github.com/Richi1000/perusahaan-2025">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Richi1000&repo=perusahaan-2025&theme=radical" />
-  </a>
-</p>
-
----
-
 ## 🐍 Contribution Snake  
 <p align="center">
   <img src="https://github.com/Richi1000/Richi1000/blob/output/snake.svg" alt="snake animation"/>
